@@ -1,2 +1,1 @@
-# IT179_Program5
-Card Game
+Program #5 for IT 179
